@@ -21,12 +21,6 @@ This Spring Boot project provides RESTful API endpoints for managing employee re
 - RESTful API design
 - JSON for data exchange
 
-## Getting Started
-
-1. Clone this repository.
-2. Configure MySQL database connection in `application.properties`.
-3. Build and run the application.
-4. Access endpoints using cURL, Postman, or any REST client.
 
 ## Project Structure
 
